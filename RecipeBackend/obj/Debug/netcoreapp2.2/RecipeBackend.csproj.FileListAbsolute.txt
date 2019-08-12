@@ -1,0 +1,15 @@
+/Users/laura/RiderProjects/RecipeBackend/RecipeBackend/bin/Debug/netcoreapp2.2/RecipeBackend.dll.config
+/Users/laura/RiderProjects/RecipeBackend/RecipeBackend/bin/Debug/netcoreapp2.2/RecipeBackend.deps.json
+/Users/laura/RiderProjects/RecipeBackend/RecipeBackend/bin/Debug/netcoreapp2.2/RecipeBackend.runtimeconfig.json
+/Users/laura/RiderProjects/RecipeBackend/RecipeBackend/bin/Debug/netcoreapp2.2/RecipeBackend.runtimeconfig.dev.json
+/Users/laura/RiderProjects/RecipeBackend/RecipeBackend/bin/Debug/netcoreapp2.2/RecipeBackend.dll
+/Users/laura/RiderProjects/RecipeBackend/RecipeBackend/bin/Debug/netcoreapp2.2/RecipeBackend.pdb
+/Users/laura/RiderProjects/RecipeBackend/RecipeBackend/obj/Debug/netcoreapp2.2/RecipeBackend.csprojAssemblyReference.cache
+/Users/laura/RiderProjects/RecipeBackend/RecipeBackend/obj/Debug/netcoreapp2.2/RecipeBackend.csproj.CoreCompileInputs.cache
+/Users/laura/RiderProjects/RecipeBackend/RecipeBackend/obj/Debug/netcoreapp2.2/RecipeBackend.RazorAssemblyInfo.cache
+/Users/laura/RiderProjects/RecipeBackend/RecipeBackend/obj/Debug/netcoreapp2.2/RecipeBackend.RazorAssemblyInfo.cs
+/Users/laura/RiderProjects/RecipeBackend/RecipeBackend/obj/Debug/netcoreapp2.2/RecipeBackend.AssemblyInfoInputs.cache
+/Users/laura/RiderProjects/RecipeBackend/RecipeBackend/obj/Debug/netcoreapp2.2/RecipeBackend.AssemblyInfo.cs
+/Users/laura/RiderProjects/RecipeBackend/RecipeBackend/obj/Debug/netcoreapp2.2/RecipeBackend.RazorTargetAssemblyInfo.cache
+/Users/laura/RiderProjects/RecipeBackend/RecipeBackend/obj/Debug/netcoreapp2.2/RecipeBackend.dll
+/Users/laura/RiderProjects/RecipeBackend/RecipeBackend/obj/Debug/netcoreapp2.2/RecipeBackend.pdb
